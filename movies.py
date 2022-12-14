@@ -149,7 +149,7 @@ footer = """
     <footer>
         <div style='visibility: visible;margin-top:7rem;justify-content:center;display:flex;'>
             <p style="font-size:1.1rem;">
-                Made with by Mohamed Shaad
+                Made by Mohamed Shaad
                 &nbsp;
                 <a href="https://www.linkedin.com/in/mohamedshaad">
                     <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" fill="white" class="bi bi-linkedin" viewBox="0 0 16 16">
