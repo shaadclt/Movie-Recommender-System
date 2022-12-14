@@ -1,6 +1,6 @@
 # Movie Recommender System
 
-A movie recommendation system is a system whose objective is to predict and compile a list of movies that a user is likely to watch. Recommendation systems have gained much popularity in recent years and have been developed and implemented for various commercial use cases.
+A movie recommender system is a system whose objective is to predict and compile a list of movies that a user is likely to watch. Recommendation systems have gained much popularity in recent years and have been developed and implemented for various commercial use cases.
 
 For example,
 
