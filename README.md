@@ -1,5 +1,11 @@
 # Movie Recommender System
 
+![image](https://user-images.githubusercontent.com/98437584/207579321-a6fc1149-aea5-49de-bce4-a245ac9fe83c.png)
+
+![image](https://user-images.githubusercontent.com/98437584/207579079-d1e91b82-bbf2-4af7-a92c-b358b4c610dc.png)
+
+![image](https://user-images.githubusercontent.com/98437584/207579183-423a8f57-e3ff-469f-9c10-dac84e7263f6.png)
+
 A movie recommender system is a system whose objective is to predict and compile a list of movies that a user is likely to watch. Recommendation systems have gained much popularity in recent years and have been developed and implemented for various commercial use cases.
 
 For example,
