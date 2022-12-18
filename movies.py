@@ -120,7 +120,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                 with col11:
                     title(names[3])
                     release(names[3])
-                    genres(names[3]
+                    genres(names[3])
                     overview(names[3])
                 
 
