@@ -75,8 +75,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                 with col11:
                     title(names[0])
                     release(names[0])
-                    genres(names[0])
-                    keywords(names[0])
+                    genres(names[0]
                 overview(names[0])
                 
 
@@ -92,7 +91,6 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[1])
                     release(names[1])
                     genres(names[1])
-                    keywords(names[1])
                 overview(names[1])
                 
 
@@ -108,7 +106,6 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[2])
                     release(names[2])
                     genres(names[2])
-                    keywords(names[2])
                 overview(names[2])
                
 
@@ -123,8 +120,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                 with col11:
                     title(names[3])
                     release(names[3])
-                    genres(names[3])
-                    keywords(names[3])
+                    genres(names[3]
                 overview(names[3])
                 
 
@@ -140,7 +136,6 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[4])
                     release(names[4])
                     genres(names[4])
-                    keywords(names[4])
                 overview(names[4])
                 
 
