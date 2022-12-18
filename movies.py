@@ -91,7 +91,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[1])
                     release(names[1])
                     genres(names[1])
-                overview(names[1])
+                    overview(names[1])
                 
 
     with col3:
@@ -106,7 +106,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[2])
                     release(names[2])
                     genres(names[2])
-                overview(names[2])
+                    overview(names[2])
                
 
     with col4:
@@ -121,7 +121,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[3])
                     release(names[3])
                     genres(names[3]
-                overview(names[3])
+                    overview(names[3])
                 
 
     with col5:
@@ -136,7 +136,7 @@ if st.button('Recommend') or st.session_state.button_clicked:
                     title(names[4])
                     release(names[4])
                     genres(names[4])
-                overview(names[4])
+                    overview(names[4])
                 
 
 footer = """
